@@ -4,3 +4,6 @@ C:\SujithTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplicati
 C:\SujithTest\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 C:\SujithTest\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\SujithTest\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\SujithX\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\SujithX\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\SujithX\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
