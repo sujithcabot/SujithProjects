@@ -1,0 +1,6 @@
+D:\MySampleProjects\TestConsole\TestConsole\bin\Debug\TestConsole.exe.config
+D:\MySampleProjects\TestConsole\TestConsole\bin\Debug\TestConsole.exe
+D:\MySampleProjects\TestConsole\TestConsole\bin\Debug\TestConsole.pdb
+D:\MySampleProjects\TestConsole\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+D:\MySampleProjects\TestConsole\TestConsole\obj\Debug\TestConsole.exe
+D:\MySampleProjects\TestConsole\TestConsole\obj\Debug\TestConsole.pdb
